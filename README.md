@@ -1,6 +1,8 @@
 # Información sobre Topper
 Topper es una herramienta de gestión de ventanas que permite controlar las aplicaciones abiertas en el sistema de una manera eficiente. Con una interfaz sencilla, Topper ofrece funcionalidades útiles para mejorar la experiencia del usuario al interactuar con múltiples ventanas al mismo tiempo.
 
+![captura](https://github.com/user-attachments/assets/de02625b-4fdc-4f8f-be4c-70c75aebafdf)
+
 # Características Principales
 - **Listar Ventanas Activas**: Muestra una lista de todas las ventanas visibles actualmente abiertas en el sistema.
 - **Establecer 'Siempre en la Parte Superior' (TopMost)**: Permite establecer una ventana seleccionada para que permanezca siempre visible por encima de las demás.
